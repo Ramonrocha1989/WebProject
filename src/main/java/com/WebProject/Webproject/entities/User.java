@@ -98,5 +98,11 @@ public class User implements Serializable {
     }
 
 
+//    public Object getName() {
+//        return nome;
+//    }
+//
+//    public void setName(Object name) {
+//    }
 }
 
